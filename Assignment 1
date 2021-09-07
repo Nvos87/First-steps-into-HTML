@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- hier zet je de code in de head tags -->
+        <title> Dit is Nathalie's eerste HTML pagina </title>
+    </head>
+    <body>
+       <h1>Hoe het allemaal begon...</h1>
+       Wie had dat gedacht. Ik die een pagina ga maken. Nou ik niet ;)
+    </body>
+</html>
